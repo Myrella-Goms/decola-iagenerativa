@@ -24,5 +24,5 @@ Durante o desenvolvimento deste projeto, aprendi que:
 Esse projeto demonstrou como ferramentas de IA Generativa como Microsoft Copilot podem ser integradas para criar fluxos de trabalho inteligentes e dinâmicos. Ao capturar tanto o input quanto o output, pudemos observar como a IA responde de maneira adaptativa e como ela pode ser ajustada para fornecer respostas mais eficazes.
 
 ## Geração de imagens com copilot
-
+<img src="https://github.com/Myrella-Goms/decola-iagenerativa/blob/main/uma%20crian%C3%A7a%20brincando%20com%20um%20cachorro.png">
 
